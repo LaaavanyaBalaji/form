@@ -1,0 +1,45 @@
+body{
+    text-align: center;
+    background-image:url(./360_F_493810111_Nl8yFklQ0MFDmjLKMfiihYTgYI08652Z.jpg);
+    border: 20px solid rgb(243, 239, 240) ;
+    margin: 20px solid rgb(243, 239, 240) ; 
+    
+    
+}
+h3{
+    text-decoration: underline;
+}
+label{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: medium;
+    padding: 10px;
+}
+input{
+    padding: 10px;
+    font-size: medium;
+    background-color:rgb(243, 239, 240);
+}
+.rollno:focus{
+    background-color: pink;
+
+}
+.Name:focus:focus{
+ background-color: pink;
+}
+.tenth:focus{
+background-color: pink;
+}
+ .twelfth:focus{
+background-color: pink;
+ }
+.degree:focus{
+background-color: pink;
+}
+
+.b1:hover{
+    background-color: yellow;
+}
+.b2:hover{
+    background-color: red;
+}
